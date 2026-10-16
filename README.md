@@ -1,5 +1,6 @@
 # AI-ML-Based-DeepFake-Image-and-Video-Classification-System
-This Repository Contains link to my Thesis for Image and video classification using AI/ML Based.  Theis contains code and result as well conduced by me.
+This Repository Contains link to my Thesis for Image and video classification using AI/ML Based.  
+Thesis contains code and result as well conduced by me.
 
 # Link to Final Document
 
